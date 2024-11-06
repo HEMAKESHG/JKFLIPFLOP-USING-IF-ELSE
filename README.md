@@ -79,5 +79,6 @@ module e7(j, k, clk, rst, q);
 ![Screenshot 2024-11-06 111728](https://github.com/user-attachments/assets/d2dd9ecc-4227-4490-93f9-f08bd5353ffa)
 
 
-**RESULTS**
+**RESULTS:**
+
 Thus the program to implement a JK flipflop using verilog and validating their functionality using their functional tables is successfully completed.
