@@ -32,7 +32,8 @@ By using three variable K-Map, we can get the simplified expression for next sta
 
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
-**Procedure**
+**Procedure:**
+
 1.Setup: Open Quartus Prime software and create a new project. Name the project and add a new Verilog file for coding the JK flip-flop.
 
 2.Coding: Write the Verilog code for the JK flip-flop using if-else and case statements to control the flip-flop’s behavior based on the inputs J, K, clk, and rst. Ensure the logic includes cases for hold, reset, set, and toggle operations.
